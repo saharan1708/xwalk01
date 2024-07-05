@@ -1,5 +1,7 @@
 {
   "mappings": [
-  
+    "/content/vikastest-xwalk-site/:/",
+    "/content/vikastest-xwalk-site/metadata.json:/metadata.json",
+    "/content/vikastest-xwalk-site/redirects.json:/redirects.json"
   ]
 }
